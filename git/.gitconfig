@@ -1,0 +1,7 @@
+[user]
+	name = Ali Nisar Ahmed
+	email = ali.nisar87@gmail.com
+[color]
+	ui = true
+[core]
+	editor = nvim
