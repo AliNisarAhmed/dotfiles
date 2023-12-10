@@ -156,7 +156,6 @@ alias lz='lazygit'
 alias lg='lazygit'
 alias gs="git status"
 alias nn="nvim ."
-alias n="nvim"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -182,7 +181,6 @@ eval "$(pyenv init -)"
 # >>> coursier install directory >>>
 export PATH="$PATH:/home/aa87/.local/share/coursier/bin"
 # <<< coursier install directory <<<
-export PATH="$HOME/.jenv/bin:$PATH"
 
 export JAVA_HOME="/usr/lib/jvm/java-17-openjdk-amd64"
 export PATH="/usr/bin/apache-maven-3.9.6/bin:$PATH"
