@@ -152,7 +152,6 @@ export PATH="/usr/racket/bin:$PATH"
 export FLYCTL_INSTALL="/home/aa87/.fly"
 export PATH="$FLYCTL_INSTALL/bin:$PATH"
 
-alias nvim='~/nvim.appimage'
 alias lz='lazygit'
 alias lg='lazygit'
 alias gs="git status"
