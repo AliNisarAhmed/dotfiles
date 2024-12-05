@@ -1,0 +1,20 @@
+#TabsToolbar-customization-target {
+  visibility: collapse;
+}
+
+#tabbrowser-tabs {
+  visibility: collapse;
+}
+
+#titlebar {
+  visibility: collapse;
+}
+
+#sidebar-header {
+  visibility: collapse !important;
+}
+
+#sidebar-box {
+  max-width: none !important;
+  min-width: 0px !important;
+}
