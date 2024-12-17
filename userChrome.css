@@ -18,3 +18,7 @@
   max-width: none !important;
   min-width: 0px !important;
 }
+
+#TabsToolbar {
+    display: none !important;
+}
